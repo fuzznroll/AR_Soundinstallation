@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3321C6E2-7045-41DE-9BD2-EF5392B8CC6F}" SchemaVersion="85">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{3321C6E2-7045-41DE-9BD2-EF5392B8CC6F}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="New Soundcaster Session" ID="{AFE1C138-A533-4B3D-BF70-49F6DF0B6669}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="InTrigger" ID="{DEDF9FE7-8111-4CBA-8D7F-7852A82E0E23}" WorkUnitID="{90A15934-2616-4FD2-89A6-B41D03541BB6}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="Out" ID="{34113A22-EF6E-4578-A2F7-53DD14BA6666}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>
