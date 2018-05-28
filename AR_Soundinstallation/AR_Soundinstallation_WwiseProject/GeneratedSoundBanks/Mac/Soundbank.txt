@@ -1,0 +1,9 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3157003241	test			\Default Work Unit\test	
+	3991942870	Music			\Default Work Unit\Music	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	382843638	chill1_part1	E:\Projekte\Unity\AR_Soundinstallation\AR_Soundinstallation\AR_Soundinstallation_WwiseProject\.cache\Mac\SFX\chill1_part1_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\chill1_part1		3686528
+	489295629	chill1_part1	E:\Projekte\Unity\AR_Soundinstallation\AR_Soundinstallation\AR_Soundinstallation_WwiseProject\.cache\Mac\SFX\chill1_part1_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\InTrigger\Out\chill1_part1\chill1_part1		3686528
+	858126943	chill1_part2	E:\Projekte\Unity\AR_Soundinstallation\AR_Soundinstallation\AR_Soundinstallation_WwiseProject\.cache\Mac\SFX\chill1_part2_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\InTrigger\In\chill1_part2\chill1_part2		3686528
+

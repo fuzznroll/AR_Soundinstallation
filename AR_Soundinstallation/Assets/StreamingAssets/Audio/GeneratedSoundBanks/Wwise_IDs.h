@@ -11,6 +11,11 @@
 
 namespace AK
 {
+    namespace EVENTS
+    {
+        static const AkUniqueID MUSIC = 3991942870U;
+    } // namespace EVENTS
+
     namespace STATES
     {
         namespace MUSIC_STATE
@@ -25,21 +30,6 @@ namespace AK
         } // namespace MUSIC_STATE
 
     } // namespace STATES
-
-    namespace SWITCHES
-    {
-        namespace OUTIN
-        {
-            static const AkUniqueID GROUP = 242156934U;
-
-            namespace SWITCH
-            {
-                static const AkUniqueID IN = 1752637612U;
-                static const AkUniqueID OUT = 645492555U;
-            } // namespace SWITCH
-        } // namespace OUTIN
-
-    } // namespace SWITCHES
 
     namespace BANKS
     {

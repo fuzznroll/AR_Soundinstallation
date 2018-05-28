@@ -20,6 +20,23 @@
 			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank</ObjectPath>
 			<ShortName>Soundbank</ShortName>
 			<Path>Soundbank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3991942870" Name="Music" ObjectPath="\Events\Default Work Unit\Music"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="420776568" Language="SFX">
+					<ShortName>chill2_part1.wav</ShortName>
+					<Path>SFX\chill2_part1_F17FB28C.wem</Path>
+				</File>
+				<File Id="539158518" Language="SFX">
+					<ShortName>chill2_part2.wav</ShortName>
+					<Path>SFX\chill2_part2_F17FB28C.wem</Path>
+				</File>
+				<File Id="775426696" Language="SFX">
+					<ShortName>chill2_drum.wav</ShortName>
+					<Path>SFX\chill2_drum_F17FB28C.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
 		</SoundBank>
 	</SoundBanks>
 </SoundBanksInfo>
