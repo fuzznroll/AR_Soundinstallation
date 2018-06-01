@@ -12,7 +12,7 @@
 					</ModuleList>
 					<RTPCValueList ShowAll="true"/>
 					<CurrentStateList ShowAll="true">
-						<CurrentStateRef Name="In" ID="{90D1F007-7053-4547-A392-B3D58C81DDC9}"/>
+						<CurrentStateRef Name="Out" ID="{34113A22-EF6E-4578-A2F7-53DD14BA6666}"/>
 					</CurrentStateList>
 					<CurrentSwitchList ShowAll="true"/>
 				</SoundcasterSession>

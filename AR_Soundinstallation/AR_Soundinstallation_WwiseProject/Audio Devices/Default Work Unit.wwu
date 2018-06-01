@@ -5,6 +5,7 @@
 			<ChildrenList>
 				<AudioDevice Name="System" ID="{A8D3DF17-C17F-4811-9260-4C2724B79987}" PluginName="System" CompanyID="0" PluginID="174" PluginType="7"/>
 				<AudioDevice Name="No_Output" ID="{8F83C774-FBF8-436E-8F3D-201EA3A79539}" PluginName="No Output" CompanyID="0" PluginID="181" PluginType="7"/>
+				<AudioDevice Name="Controller_Speaker" ID="{D722B0D2-5092-40E1-A217-04FB348C67DD}" PluginName="Controller Speaker" CompanyID="0" PluginID="179" PluginType="7"/>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioDevices>

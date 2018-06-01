@@ -5,10 +5,74 @@
 			<ChildrenList>
 				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
 					<ReferenceList>
-						<Reference Name="AudioDevice">
+						<Reference Name="AudioDevice" PluginName="System" CompanyID="0" PluginID="174" PluginType="7">
 							<ObjectRef Name="System" ID="{A8D3DF17-C17F-4811-9260-4C2724B79987}" WorkUnitID="{EA7D4F84-A4A1-4A96-89CE-889A9679B2FE}"/>
 						</Reference>
 					</ReferenceList>
+					<ChildrenList>
+						<Bus Name="3D" ID="{147E5D90-B280-49E9-B517-2E7BB9413875}">
+							<PropertyList>
+								<Property Name="3DPositionSource" Type="int16" Value="0"/>
+								<Property Name="BusChannelConfig" Type="int32">
+									<ValueList>
+										<Value>516</Value>
+									</ValueList>
+								</Property>
+								<Property Name="DivergenceCenter" Type="int32">
+									<ValueList>
+										<Value>0</Value>
+									</ValueList>
+								</Property>
+								<Property Name="EnablePositioning" Type="bool" Value="True"/>
+								<Property Name="FollowListenerOrientation" Type="bool" Value="False"/>
+								<Property Name="PositioningType" Type="int16" Value="1"/>
+							</PropertyList>
+							<PositioningInfo>
+								<Position Name="" ID="{1F0829F8-CA93-4082-A196-B4766F896DE3}">
+									<PropertyList>
+										<Property Name="PlayMechanismStepOrContinuous" Type="int16" Value="0"/>
+										<Property Name="PlayMechanismTransitionTime" Type="Real64" Value="0"/>
+									</PropertyList>
+									<ChildrenList>
+										<Path2D Name="3D_Path" ID="{901AD014-DA6C-4CFD-BD9C-46BDAC33FCEC}">
+											<PointList>
+												<Point>
+													<XPos>-80.10753</XPos>
+													<YPos>70.97187</YPos>
+													<Flags>12</Flags>
+													<Time>0</Time>
+												</Point>
+												<Point>
+													<XPos>66.6666666666667</XPos>
+													<YPos>69.8209718670077</YPos>
+													<Flags>0</Flags>
+													<Time>1250</Time>
+												</Point>
+												<Point>
+													<XPos>69.8924731182796</XPos>
+													<YPos>-78.5166240409207</YPos>
+													<Flags>0</Flags>
+													<Time>2500</Time>
+												</Point>
+												<Point>
+													<XPos>-74.1935483870968</XPos>
+													<YPos>-74.9360613810742</YPos>
+													<Flags>0</Flags>
+													<Time>3750</Time>
+												</Point>
+												<Point>
+													<XPos>-80.64516</XPos>
+													<YPos>71.3555</YPos>
+													<Flags>0</Flags>
+													<Time>5000</Time>
+												</Point>
+											</PointList>
+										</Path2D>
+									</ChildrenList>
+								</Position>
+							</PositioningInfo>
+						</Bus>
+					</ChildrenList>
 				</Bus>
 			</ChildrenList>
 		</WorkUnit>
