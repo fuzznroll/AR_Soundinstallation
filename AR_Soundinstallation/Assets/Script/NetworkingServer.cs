@@ -107,13 +107,13 @@ public class NetworkingServer : MonoBehaviour {
 
     void SpawnFPSC()
     {
-        GameObject test = Instantiate(testPrefab, transform.position, transform.rotation);
-        NetworkServer.Spawn(test);
+        test = Instantiate(testPrefab, transform.position, transform.rotation);
+        //NetworkServer.Spawn(test);
     }
 
     void DespawnFPSC()
     {
-        NetworkServer.UnSpawn(test);
+        Destroy(test);
     }
 }
 
