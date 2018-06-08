@@ -8,6 +8,15 @@
 						<Reference Name="AudioDevice" PluginName="System" CompanyID="0" PluginID="174" PluginType="7">
 							<ObjectRef Name="System" ID="{A8D3DF17-C17F-4811-9260-4C2724B79987}" WorkUnitID="{EA7D4F84-A4A1-4A96-89CE-889A9679B2FE}"/>
 						</Reference>
+						<Reference Name="Effect0">
+							<Custom>
+								<Effect Name="Auro Headphone (Custom)" ID="{7F3A981A-7F0E-4A6C-BF01-0DF569324E9A}" ShortID="968760434" PluginName="Auro Headphone" CompanyID="263" PluginID="1100" PluginType="3">
+									<PropertyList>
+										<Property Name="Src_distance" Type="Real32" Value="1.46875"/>
+									</PropertyList>
+								</Effect>
+							</Custom>
+						</Reference>
 					</ReferenceList>
 					<ChildrenList>
 						<Bus Name="3D" ID="{147E5D90-B280-49E9-B517-2E7BB9413875}">
@@ -15,7 +24,7 @@
 								<Property Name="3DPositionSource" Type="int16" Value="0"/>
 								<Property Name="BusChannelConfig" Type="int32">
 									<ValueList>
-										<Value>516</Value>
+										<Value>761327882</Value>
 									</ValueList>
 								</Property>
 								<Property Name="DivergenceCenter" Type="int32">
@@ -23,10 +32,10 @@
 										<Value>0</Value>
 									</ValueList>
 								</Property>
-								<Property Name="EnablePositioning" Type="bool" Value="True"/>
 								<Property Name="FollowListenerOrientation" Type="bool" Value="False"/>
 								<Property Name="PositioningType" Type="int16" Value="1"/>
 							</PropertyList>
+							<ReferenceList/>
 							<PositioningInfo>
 								<Position Name="" ID="{1F0829F8-CA93-4082-A196-B4766F896DE3}">
 									<PropertyList>

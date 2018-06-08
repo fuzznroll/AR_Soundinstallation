@@ -7,6 +7,7 @@
 					<PropertyList>
 						<Property Name="3DPositionSource" Type="int16" Value="0"/>
 						<Property Name="EnablePanner" Type="bool" Value="True"/>
+						<Property Name="EnablePositioning" Type="bool" Value="False"/>
 						<Property Name="PositioningType" Type="int16" Value="1"/>
 					</PropertyList>
 					<ReferenceList>

@@ -424,51 +424,73 @@
 						<Position Name="" ID="{7C8CF2B8-77B3-47A6-A5C1-99871E77639A}">
 							<PropertyList>
 								<Property Name="PlayMechanismStepOrContinuous" Type="int16" Value="0"/>
+								<Property Name="PlayMechanismTransitionTime" Type="Real64" Value="0"/>
 							</PropertyList>
 							<ChildrenList>
 								<Path2D Name="InTrigger_Path" ID="{54387F76-5430-4D7D-9082-975D3E5556B8}">
+									<PropertyList>
+										<Property Name="Duration" Type="int32" Value="7000"/>
+									</PropertyList>
 									<PointList>
 										<Point>
-											<XPos>-1.07527</XPos>
-											<YPos>77.62148</YPos>
+											<XPos>-0.44237</XPos>
+											<YPos>91.08281</YPos>
 											<Flags>12</Flags>
 											<Time>0</Time>
 										</Point>
 										<Point>
-											<XPos>70.43011</XPos>
-											<YPos>78.00512</YPos>
+											<XPos>52.53164</XPos>
+											<YPos>81.52866</YPos>
 											<Flags>0</Flags>
-											<Time>833</Time>
+											<Time>777</Time>
 										</Point>
 										<Point>
-											<XPos>61.29032</XPos>
-											<YPos>-100</YPos>
+											<XPos>86.60677</XPos>
+											<YPos>28.02548</YPos>
 											<Flags>0</Flags>
-											<Time>1666</Time>
+											<Time>1555</Time>
 										</Point>
 										<Point>
-											<XPos>-67.2043</XPos>
-											<YPos>-100</YPos>
+											<XPos>82.7957</XPos>
+											<YPos>-50.31847</YPos>
 											<Flags>0</Flags>
-											<Time>2500</Time>
+											<Time>2333</Time>
 										</Point>
 										<Point>
-											<XPos>-70.43011</XPos>
-											<YPos>77.49361</YPos>
+											<XPos>34.63319</XPos>
+											<YPos>-89.80892</YPos>
 											<Flags>0</Flags>
-											<Time>3333</Time>
+											<Time>3111</Time>
 										</Point>
 										<Point>
-											<XPos>-19.8924731182796</XPos>
-											<YPos>79.0281329923274</YPos>
+											<XPos>-38.24689</XPos>
+											<YPos>-87.89808</YPos>
 											<Flags>0</Flags>
-											<Time>4166</Time>
+											<Time>3888</Time>
 										</Point>
 										<Point>
-											<XPos>-1.6129</XPos>
-											<YPos>78.51662</YPos>
+											<XPos>-79.461</XPos>
+											<YPos>-41.40128</YPos>
 											<Flags>0</Flags>
-											<Time>5000</Time>
+											<Time>4666</Time>
+										</Point>
+										<Point>
+											<XPos>-82.2785</XPos>
+											<YPos>37.57962</YPos>
+											<Flags>0</Flags>
+											<Time>5444</Time>
+										</Point>
+										<Point>
+											<XPos>-59.49367</XPos>
+											<YPos>77.70701</YPos>
+											<Flags>0</Flags>
+											<Time>6222</Time>
+										</Point>
+										<Point>
+											<XPos>-1.26583</XPos>
+											<YPos>90.44585</YPos>
+											<Flags>0</Flags>
+											<Time>7000</Time>
 										</Point>
 									</PointList>
 								</Path2D>
