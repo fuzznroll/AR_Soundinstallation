@@ -40,6 +40,8 @@ public class NetworkingServer : MonoBehaviour {
     void Start ()
     {
         SetupServer();
+        AkSoundEngine.SetState("Music_State", "In");
+        AkSoundEngine.PostEvent("Music", gameObject);
     }
 	
 	// Update is called once per frame
@@ -88,11 +90,13 @@ public class NetworkingServer : MonoBehaviour {
     public void OnSendA(NetworkMessage netMsg)
     {
         Debug.Log("Message received of Type [" + MsgTypes.A + "]");
+        AkSoundEngine.SetState("Music_State", "In");
     }
 
     public void OnSendB(NetworkMessage netMsg)
     {
         Debug.Log("Message received of Type [" + MsgTypes.B + "]");
+        AkSoundEngine.SetState("Music_State", "Out");
     }
 
     public void OnSendC(NetworkMessage netMsg)

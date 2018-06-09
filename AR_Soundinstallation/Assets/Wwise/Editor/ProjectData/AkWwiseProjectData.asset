@@ -13,30 +13,30 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AcousticTextureWwu:
   - Guid: '{167B1AD3-E9EC-44D8-870D-598C5BC7221C}'
-    m_lastTimePart2: -1999257577
-    m_lastTimePsrt1: -1832574422
+    m_lastTimePart2: -1999254399
+    m_lastTimePsrt1: 1584359296
     ParentPhysicalPath: 
-    PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    PhysicalPath: Virtual Acoustics/Default Work Unit.wwu
     List: []
   autoPopulateEnabled: 1
   AuxBusWwu:
   - Guid: '{F6B0B886-4353-4C01-8595-019BE6D06CC1}'
-    m_lastTimePart2: -1999257577
-    m_lastTimePsrt1: -1832920066
+    m_lastTimePart2: -1999254177
+    m_lastTimePsrt1: 851619584
     ParentPhysicalPath: 
-    PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    PhysicalPath: Master-Mixer Hierarchy/Default Work Unit.wwu
     List: []
   BankWwu:
   - Guid: '{6916F86A-9D2D-44FD-8843-935561727AB6}'
-    m_lastTimePart2: -1999257553
-    m_lastTimePsrt1: -793822417
+    m_lastTimePart2: -1999254331
+    m_lastTimePsrt1: 226583168
     ParentPhysicalPath: 
-    PhysicalPath: SoundBanks\Default Work Unit.wwu
+    PhysicalPath: SoundBanks/Default Work Unit.wwu
     List:
     - Guid: d8f81b895674134f8adb6bf1684fe3e0
       ID: 1661994096
       Name: Soundbank
-      Path: Default Work Unit\Soundbank
+      Path: Default Work Unit/Soundbank
       PathAndIcons:
       - ElementName: Default Work Unit
         ObjectType: 12
@@ -48,15 +48,15 @@ MonoBehaviour:
   defaultPoolSize: 4096
   EventWwu:
   - Guid: '{87DBD84F-740A-45A4-94F9-D05119051347}'
-    m_lastTimePart2: -1999257573
-    m_lastTimePsrt1: 1977984302
+    m_lastTimePart2: -1999254399
+    m_lastTimePsrt1: 1584359296
     ParentPhysicalPath: 
-    PhysicalPath: Events\Default Work Unit.wwu
+    PhysicalPath: Events/Default Work Unit.wwu
     List:
     - Guid: 8c54fa830502a648b3b4d7d15b86a9ed
       ID: -303024426
       Name: Music
-      Path: Default Work Unit\Music
+      Path: Default Work Unit/Music
       PathAndIcons:
       - ElementName: Default Work Unit
         ObjectType: 12
@@ -67,10 +67,6 @@ MonoBehaviour:
       minDuration: 0
   ExpandedItems:
   - /AR_Soundinstallation_WwiseProject
-  - /AR_Soundinstallation_WwiseProject/Events
-  - /AR_Soundinstallation_WwiseProject/Events/Default Work Unit
-  - /AR_Soundinstallation_WwiseProject/SoundBanks
-  - /AR_Soundinstallation_WwiseProject/SoundBanks/Default Work Unit
   language: English(US)
   lowerPoolSize: 2048
   m_lastPopulateTimePart2: 0
@@ -79,22 +75,22 @@ MonoBehaviour:
   preparePoolSize: 0
   RtpcWwu:
   - Guid: '{EE861872-3E6D-4033-A7D0-C0BFCEECEA6D}'
-    m_lastTimePart2: -1999257577
-    m_lastTimePsrt1: -1833020260
+    m_lastTimePart2: -1999254399
+    m_lastTimePsrt1: 1584359296
     ParentPhysicalPath: 
-    PhysicalPath: Game Parameters\Default Work Unit.wwu
+    PhysicalPath: Game Parameters/Default Work Unit.wwu
     List: []
   StateWwu:
   - Guid: '{6C761D46-376C-49CB-9FC4-A5985FA4DDCF}'
-    m_lastTimePart2: -1999257573
-    m_lastTimePsrt1: 1978184678
+    m_lastTimePart2: -1999254399
+    m_lastTimePsrt1: 1584359296
     ParentPhysicalPath: 
-    PhysicalPath: States\Default Work Unit.wwu
+    PhysicalPath: States/Default Work Unit.wwu
     List:
     - Guid: 380b7359e48d4648aca93db6eb43c1bc
       ID: -468397736
       Name: Music_State
-      Path: Default Work Unit\Music_State
+      Path: Default Work Unit/Music_State
       PathAndIcons:
       - ElementName: Default Work Unit
         ObjectType: 12
@@ -119,36 +115,15 @@ MonoBehaviour:
   streamingPoolSize: 1024
   SwitchWwu:
   - Guid: '{3199555D-F74D-4030-8D44-B236D3A0601C}'
-    m_lastTimePart2: -1999257570
-    m_lastTimePsrt1: 2064377523
+    m_lastTimePart2: -1999254331
+    m_lastTimePsrt1: 226583168
     ParentPhysicalPath: 
-    PhysicalPath: Switches\Default Work Unit.wwu
-    List:
-    - Guid: 50d30fde915d5b4a861b5ff0620e12be
-      ID: 242156934
-      Name: OutIn
-      Path: Default Work Unit\OutIn
-      PathAndIcons:
-      - ElementName: Default Work Unit
-        ObjectType: 12
-      - ElementName: OutIn
-        ObjectType: 11
-      ValueGuids:
-      - bytes: 786811d41ce3734896c596c6cd44f1bd
-      - bytes: a0b3b5ed5d6c63439f42ab21ae4fa96b
-      ValueIcons:
-      - ElementName: In
-        ObjectType: 10
-      - ElementName: Out
-        ObjectType: 10
-      valueIDs: ac2077684b6f7926
-      values:
-      - In
-      - Out
+    PhysicalPath: Switches/Default Work Unit.wwu
+    List: []
   TriggerWwu:
   - Guid: '{D8114413-F06E-4943-9B67-5D0205D38A35}'
-    m_lastTimePart2: -1999257577
-    m_lastTimePsrt1: -1832619496
+    m_lastTimePart2: -1999254399
+    m_lastTimePsrt1: 1584359296
     ParentPhysicalPath: 
-    PhysicalPath: Triggers\Default Work Unit.wwu
+    PhysicalPath: Triggers/Default Work Unit.wwu
     List: []

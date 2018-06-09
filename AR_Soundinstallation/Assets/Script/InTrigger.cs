@@ -12,7 +12,7 @@ public class InTrigger : MonoBehaviour {
     {
         AkSoundEngine.SetState("Music_State", "In");
         Debug.Log("Enter Trigger");
-        
+
         //AkSoundEngine.PostEvent("test", gameObject);
     }
 
