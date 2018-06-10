@@ -25,8 +25,8 @@ public class MessageD : MessageBase
 
 public class MsgTypes
 {
-    public static short A = 1337;
-    public static short B = 1234;
+    public static short A = 1234;
+    public static short B = 1337;
     public static short C = 1609;
     public static short D = 1712;
 }
