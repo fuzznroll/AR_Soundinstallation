@@ -17,6 +17,82 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Trigger_1" ID="{DA834579-40FF-47C3-BD65-0BC8CD467218}">
+					<ChildrenList>
+						<Action Name="" ID="{C7F2B787-F6BE-418C-B8BB-BCE5CF65ED00}" ShortID="218636203">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Begin" ID="{172A74BD-565E-4A83-8E5B-DE89CB836BE4}" WorkUnitID="{1F693F0D-4987-4A83-9600-50E9C055141C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Trigger" ID="{382D151D-DCE0-41D0-BE46-FB55589C5C8D}"/>
+				<Event Name="Trigger_2" ID="{888E5E6D-D7E5-46B0-9317-8AF98189EAF5}">
+					<ChildrenList>
+						<Action Name="" ID="{4A96D0A9-94C0-436C-BBC8-F5AAFFADAEBB}" ShortID="641338561">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="3"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList/>
+						</Action>
+						<Action Name="" ID="{96B12079-DE70-40BF-9C31-03A1F6C72E27}" ShortID="314672872">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Zeitung" ID="{B637B343-9915-44B7-885B-8F2713BDF217}" WorkUnitID="{1F693F0D-4987-4A83-9600-50E9C055141C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Trigger_3" ID="{29D8632B-F8E2-4212-8FA7-A501BDB696AB}">
+					<ChildrenList>
+						<Action Name="" ID="{EFBC12B0-6E71-4ACC-AD23-678741DCDDF3}" ShortID="625429806">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="3"/>
+							</PropertyList>
+							<ReferenceList/>
+						</Action>
+						<Action Name="" ID="{1F8485F6-995B-42FD-804D-9A945BFA15B6}" ShortID="600484011">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Voice_Rebell_1" ID="{6CEFF522-9BC8-4129-A628-233C7DB2DCBF}" WorkUnitID="{1F693F0D-4987-4A83-9600-50E9C055141C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Trigger_4" ID="{2BD5A742-24E1-4603-9722-BEE5A56D9DF5}">
+					<ChildrenList>
+						<Action Name="" ID="{97A92368-73FE-4D0A-87AE-7A250E5BF9C6}" ShortID="343540173">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="3"/>
+							</PropertyList>
+							<ReferenceList/>
+						</Action>
+						<Action Name="" ID="{9871F94F-3B20-4770-A48A-7A18A2AE4422}" ShortID="13906453">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Roboter_Rebell" ID="{815C4E2B-2B39-4809-9136-D30EC38F2AF1}" WorkUnitID="{1F693F0D-4987-4A83-9600-50E9C055141C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

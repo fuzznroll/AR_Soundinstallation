@@ -6,13 +6,25 @@
 				<SoundcasterSession Name="New Soundcaster Session" ID="{AFE1C138-A533-4B3D-BF70-49F6DF0B6669}">
 					<ModuleList>
 						<Module>
-							<ObjectRef Name="InTrigger" ID="{DEDF9FE7-8111-4CBA-8D7F-7852A82E0E23}" WorkUnitID="{90A15934-2616-4FD2-89A6-B41D03541BB6}"/>
+							<ObjectRef Name="Trigger_1" ID="{DA834579-40FF-47C3-BD65-0BC8CD467218}" WorkUnitID="{87DBD84F-740A-45A4-94F9-D05119051347}"/>
 							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Trigger_2" ID="{888E5E6D-D7E5-46B0-9317-8AF98189EAF5}" WorkUnitID="{87DBD84F-740A-45A4-94F9-D05119051347}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Trigger_3" ID="{29D8632B-F8E2-4212-8FA7-A501BDB696AB}" WorkUnitID="{87DBD84F-740A-45A4-94F9-D05119051347}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Trigger_4" ID="{2BD5A742-24E1-4603-9722-BEE5A56D9DF5}" WorkUnitID="{87DBD84F-740A-45A4-94F9-D05119051347}"/>
+							<Position X="3" Y="0"/>
 						</Module>
 					</ModuleList>
 					<RTPCValueList ShowAll="true"/>
 					<CurrentStateList ShowAll="true">
-						<CurrentStateRef Name="In" ID="{90D1F007-7053-4547-A392-B3D58C81DDC9}"/>
+						<CurrentStateRef Name="Out" ID="{34113A22-EF6E-4578-A2F7-53DD14BA6666}"/>
 					</CurrentStateList>
 					<CurrentSwitchList ShowAll="true"/>
 				</SoundcasterSession>

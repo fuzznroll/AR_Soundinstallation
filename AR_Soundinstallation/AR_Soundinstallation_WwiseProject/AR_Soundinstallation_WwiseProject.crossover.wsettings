@@ -3,6 +3,12 @@
 	<UserProjectSettingsInfo>
 		<UserProjectSettings Name="" ID="{7D8B98FD-C86E-4F54-A893-3C29F76927F1}">
 			<PropertyList>
+				<Property Name="Event Action List\{29D8632B-F8E2-4212-8FA7-A501BDB696AB}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{2BD5A742-24E1-4603-9722-BEE5A56D9DF5}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{382D151D-DCE0-41D0-BE46-FB55589C5C8D}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{83FA548C-0205-48A6-B3B4-D7D15B86A9ED}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{888E5E6D-D7E5-46B0-9317-8AF98189EAF5}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{DA834579-40FF-47C3-BD65-0BC8CD467218}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="EventView\FilterMode1" Type="int32" Value="2"/>
 				<Property Name="ExternalSourcesInputPath" Type="string">
 					<ValueList>
@@ -29,6 +35,7 @@
 				<Property Name="MonitoringManager\WatchMgr\x64_GameSyncWatches" Type="string" Value=""/>
 				<Property Name="MonitoringManager\WatchMgr\x64_Watches" Type="string" Value=""/>
 				<Property Name="Music Transition List\{DEDF9FE7-8111-4CBA-8D7F-7852A82E0E23}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="PluginUserAcknowledge\iZotope Hybrid Reverb" Type="bool" Value="True"/>
 				<Property Name="ProjectExplorer\FirstVisible_10_1" Type="string" Value="{4C96B38B-3DB4-40C7-91C9-665510E38993}"/>
 				<Property Name="ProjectExplorer\FirstVisible_11_1" Type="string" Value="{23EC2DE3-3ED8-4B82-AC99-92E25F2E4C6B}"/>
 				<Property Name="ProjectExplorer\FirstVisible_1_1" Type="string" Value="{2388DAEA-9775-46C6-A2ED-C5222A397756}"/>
@@ -47,10 +54,10 @@
 				<Property Name="ProjectExplorer\x64_Expanded_18_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_19_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_1_1" Type="string" Value="2KQUFaYdKkGhfnXKDCFJ85BdfhSAsulJtRcue7lBOHWGuLD2U0MBTIWVAZvm0GzB"/>
-				<Property Name="ProjectExplorer\x64_Expanded_20_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_20_1" Type="string" Value="hE996qGklkqJzoialnmy/g=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_21_1" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="DT9pH4dJg0qWAFDpwFUUHA=="/>
-				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="Q7M3thWZt0SIW48nE73yFytOXIE5KwlIkTbTDsOPKvFR+piEaQpZSLi90avhFeYfDT9pH4dJg0qWAFDpwFUUHL10KhdeVoNKjlveicuDa+Q="/>
+				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value="T9jbhwp0pEWU+dBRGQUTRw=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_4_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_5_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_6_1" Type="string" Value=""/>
