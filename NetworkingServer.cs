@@ -90,7 +90,7 @@ public class NetworkingServer : MonoBehaviour {
         Debug.Log("Message received of Type [" + netMsg.msgType + "]");
         MessageA msg = netMsg.ReadMessage<MessageA>();
         if (msg.toggle)
-            AkSoundEngine.PostEvent("Trigger_1", gameObject);
+            AkSoundEngine.PostEvent("Trigger_1", test);
     }
 
     public void OnSendB(NetworkMessage netMsg)
@@ -98,7 +98,7 @@ public class NetworkingServer : MonoBehaviour {
         Debug.Log("Message received of Type [" + netMsg.msgType + "]");
         MessageB msg = netMsg.ReadMessage<MessageB>();
         if (msg.toggle)
-            AkSoundEngine.PostEvent("Trigger_2", gameObject);
+            AkSoundEngine.PostEvent("Trigger_2", test);
     }
 
     public void OnSendC(NetworkMessage netMsg)
@@ -106,7 +106,7 @@ public class NetworkingServer : MonoBehaviour {
         Debug.Log("Message received of Type [" + netMsg.msgType + "]");
         MessageC msg = netMsg.ReadMessage<MessageC>();
         if (msg.toggle)
-            AkSoundEngine.PostEvent("Trigger_3", gameObject);
+            AkSoundEngine.PostEvent("Trigger_3", test);
     }
 
     public void OnSendD(NetworkMessage netMsg)
@@ -114,7 +114,7 @@ public class NetworkingServer : MonoBehaviour {
         Debug.Log("Message received of Type [" + netMsg.msgType + "]");
         MessageD msg = netMsg.ReadMessage<MessageD>();
         if (msg.toggle)
-            AkSoundEngine.PostEvent("Trigger_4", gameObject);
+            AkSoundEngine.PostEvent("Trigger_4", test);
     }
 
     void SpawnFPSC()
