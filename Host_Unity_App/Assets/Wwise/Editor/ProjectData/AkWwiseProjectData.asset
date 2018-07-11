@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54f52fc16da9ec846baff53a3f93b02a, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - Guid: '{167B1AD3-E9EC-44D8-870D-598C5BC7221C}'
+    m_lastTimePart2: -1999254399
+    m_lastTimePsrt1: 1584359296
+    ParentPhysicalPath: 
+    PhysicalPath: Virtual Acoustics/Default Work Unit.wwu
+    List: []
+  autoPopulateEnabled: 1
+  AuxBusWwu:
+  - Guid: '{F6B0B886-4353-4C01-8595-019BE6D06CC1}'
+    m_lastTimePart2: -1999253163
+    m_lastTimePsrt1: 1354781440
+    ParentPhysicalPath: 
+    PhysicalPath: Master-Mixer Hierarchy/Default Work Unit.wwu
+    List: []
+  BankWwu:
+  - Guid: '{6916F86A-9D2D-44FD-8843-935561727AB6}'
+    m_lastTimePart2: -1999253167
+    m_lastTimePsrt1: 524650624
+    ParentPhysicalPath: 
+    PhysicalPath: SoundBanks/Default Work Unit.wwu
+    List:
+    - Guid: d8f81b895674134f8adb6bf1684fe3e0
+      ID: 1661994096
+      Name: Soundbank
+      Path: Default Work Unit/Soundbank
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Soundbank
+        ObjectType: 7
+  basePath: Audio\GeneratedSoundBanks
+  callbackManagerBufferSize: 4
+  CurrentPluginConfig: 
+  defaultPoolSize: 4096
+  EventWwu:
+  - Guid: '{87DBD84F-740A-45A4-94F9-D05119051347}'
+    m_lastTimePart2: -1999253167
+    m_lastTimePsrt1: 494650624
+    ParentPhysicalPath: 
+    PhysicalPath: Events/Default Work Unit.wwu
+    List:
+    - Guid: 8c54fa830502a648b3b4d7d15b86a9ed
+      ID: -303024426
+      Name: Music
+      Path: Default Work Unit/Music
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 1d152d38e0dcd041be46fb55589c5c8d
+      ID: -723711365
+      Name: Trigger
+      Path: Default Work Unit/Trigger
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 794583daff40c347bd650bc8cd467218
+      ID: 1503558891
+      Name: Trigger_1
+      Path: Default Work Unit/Trigger_1
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_1
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 6d5e8e88e5d7b04693178af98189eaf5
+      ID: 1503558888
+      Name: Trigger_2
+      Path: Default Work Unit/Trigger_2
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_2
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 2b63d829e2f812428fa7a501bdb696ab
+      ID: 1503558889
+      Name: Trigger_3
+      Path: Default Work Unit/Trigger_3
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_3
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 42a7d52be12403469722bee5a56d9df5
+      ID: 1503558894
+      Name: Trigger_4
+      Path: Default Work Unit/Trigger_4
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_4
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+  ExpandedItems:
+  - /AR_Soundinstallation_WwiseProject
+  - /AR_Soundinstallation_WwiseProject/Events
+  - /AR_Soundinstallation_WwiseProject/Events/Default Work Unit
+  language: English(US)
+  lowerPoolSize: 2048
+  m_lastPopulateTimePart2: 0
+  m_lastPopulateTimePsrt1: 0
+  memoryCutoffThreshold: 0.95
+  preparePoolSize: 0
+  RtpcWwu:
+  - Guid: '{EE861872-3E6D-4033-A7D0-C0BFCEECEA6D}'
+    m_lastTimePart2: -1999254399
+    m_lastTimePsrt1: 1584359296
+    ParentPhysicalPath: 
+    PhysicalPath: Game Parameters/Default Work Unit.wwu
+    List: []
+  StateWwu:
+  - Guid: '{6C761D46-376C-49CB-9FC4-A5985FA4DDCF}'
+    m_lastTimePart2: -1999254399
+    m_lastTimePsrt1: 1584359296
+    ParentPhysicalPath: 
+    PhysicalPath: States/Default Work Unit.wwu
+    List:
+    - Guid: 380b7359e48d4648aca93db6eb43c1bc
+      ID: -468397736
+      Name: Music_State
+      Path: Default Work Unit/Music_State
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music_State
+        ObjectType: 9
+      ValueGuids:
+      - bytes: 07f0d19053704745a392b3d58c81ddc9
+      - bytes: da941e27b003aa47bfad4157eacd3ecd
+      - bytes: 223a11346eef7845a2f753dd14ba6666
+      ValueIcons:
+      - ElementName: In
+        ObjectType: 8
+      - ElementName: None
+        ObjectType: 8
+      - ElementName: Out
+        ObjectType: 8
+      valueIDs: ac207768db3ba32c4b6f7926
+      values:
+      - In
+      - None
+      - Out
+  streamingPoolSize: 1024
+  SwitchWwu:
+  - Guid: '{3199555D-F74D-4030-8D44-B236D3A0601C}'
+    m_lastTimePart2: -1999253167
+    m_lastTimePsrt1: 524650624
+    ParentPhysicalPath: 
+    PhysicalPath: Switches/Default Work Unit.wwu
+    List: []
+  TriggerWwu:
+  - Guid: '{D8114413-F06E-4943-9B67-5D0205D38A35}'
+    m_lastTimePart2: -1999254399
+    m_lastTimePsrt1: 1584359296
+    ParentPhysicalPath: 
+    PhysicalPath: Triggers/Default Work Unit.wwu
+    List: []

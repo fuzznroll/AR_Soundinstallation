@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="128">
+	<RootPaths>
+		<ProjectRoot>/Users/simonhaase/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Desktop/Projekte/ARSoundInstallation/AR_Soundinstallation/AR_Soundinstallation/AR_Soundinstallation_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/simonhaase/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Desktop/Projekte/ARSoundInstallation/AR_Soundinstallation/AR_Soundinstallation/AR_Soundinstallation_WwiseProject/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/simonhaase/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Desktop/Projekte/ARSoundInstallation/AR_Soundinstallation/AR_Soundinstallation/AR_Soundinstallation_WwiseProject/GeneratedSoundBanks/Windows/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/simonhaase/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Desktop/Projekte/ARSoundInstallation/AR_Soundinstallation/AR_Soundinstallation/AR_Soundinstallation_WwiseProject/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1661994096" Language="English(US)">
+			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank</ObjectPath>
+			<ShortName>Soundbank</ShortName>
+			<Path>English(US)/Soundbank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3991942870" Name="Music" ObjectPath="\Events\Default Work Unit\Music"/>
+				<Event Id="3571255931" Name="Trigger" ObjectPath="\Events\Default Work Unit\Trigger" MaxAttenuation="0.000000"/>
+				<Event Id="1503558891" Name="Trigger_1" ObjectPath="\Events\Default Work Unit\Trigger_1"/>
+				<Event Id="1503558888" Name="Trigger_2" ObjectPath="\Events\Default Work Unit\Trigger_2"/>
+				<Event Id="1503558889" Name="Trigger_3" ObjectPath="\Events\Default Work Unit\Trigger_3"/>
+				<Event Id="1503558894" Name="Trigger_4" ObjectPath="\Events\Default Work Unit\Trigger_4"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="19080898" Language="English(US)">
+					<ShortName>Old Men_2.wav</ShortName>
+					<Path>Voices/English(US)/Old Men_2_1C9C67B2.wem</Path>
+				</File>
+				<File Id="28293577" Language="SFX">
+					<ShortName>Chain1_7.wav</ShortName>
+					<Path>SFX/Chain1_7_1C9C67B2.wem</Path>
+				</File>
+				<File Id="69381520" Language="SFX">
+					<ShortName>Movement_10.wav</ShortName>
+					<Path>SFX/Movement_10_1C9C67B2.wem</Path>
+				</File>
+				<File Id="78420622" Language="SFX">
+					<ShortName>50723__rutgermuller__footsteps-metallic-muffled.wav</ShortName>
+					<Path>SFX/50723__rutgermuller__footsteps-metallic-muffled_1C9C67B2.wem</Path>
+				</File>
+				<File Id="80343411" Language="English(US)">
+					<ShortName>Zeitung_Voice_2.wav</ShortName>
+					<Path>Voices/English(US)/Zeitung_Voice_2_1C9C67B2.wem</Path>
+				</File>
+				<File Id="82217857" Language="SFX">
+					<ShortName>Movement_18.wav</ShortName>
+					<Path>SFX/Movement_18_1C9C67B2.wem</Path>
+				</File>
+				<File Id="87718980" Language="SFX">
+					<ShortName>Transmission.wav</ShortName>
+					<Path>SFX/Transmission_1C9C67B2.wem</Path>
+				</File>
+				<File Id="88212855" Language="English(US)">
+					<ShortName>Help_1.wav</ShortName>
+					<Path>Voices/English(US)/Help_1_1C9C67B2.wem</Path>
+				</File>
+				<File Id="91798157" Language="English(US)">
+					<ShortName>Roboter_Rebell.wav</ShortName>
+					<Path>Voices/English(US)/Roboter_Rebell_1C9C67B2.wem</Path>
+				</File>
+				<File Id="111682876" Language="SFX">
+					<ShortName>Movement_19.wav</ShortName>
+					<Path>SFX/Movement_19_1C9C67B2.wem</Path>
+				</File>
+				<File Id="122149457" Language="SFX">
+					<ShortName>50723__rutgermuller__footsteps-metallic-muffled.wav</ShortName>
+					<Path>SFX/50723__rutgermuller__footsteps-metallic-muffled_F17FB28C.wem</Path>
+				</File>
+				<File Id="171277787" Language="SFX">
+					<ShortName>Movement_12.wav</ShortName>
+					<Path>SFX/Movement_12_1C9C67B2.wem</Path>
+				</File>
+				<File Id="171669697" Language="SFX">
+					<ShortName>Movement_17.wav</ShortName>
+					<Path>SFX/Movement_17_1C9C67B2.wem</Path>
+				</File>
+				<File Id="266437623" Language="English(US)">
+					<ShortName>Help_6.wav</ShortName>
+					<Path>Voices/English(US)/Help_6_1C9C67B2.wem</Path>
+				</File>
+				<File Id="303065275" Language="SFX">
+					<ShortName>Chain1_1.wav</ShortName>
+					<Path>SFX/Chain1_1_1C9C67B2.wem</Path>
+				</File>
+				<File Id="320620888" Language="SFX">
+					<ShortName>Nuclear_Siren_Wobble_1.wav</ShortName>
+					<Path>SFX/Nuclear_Siren_Wobble_1_F17FB28C.wem</Path>
+				</File>
+				<File Id="332773028" Language="SFX">
+					<ShortName>Chain1_5.wav</ShortName>
+					<Path>SFX/Chain1_5_1C9C67B2.wem</Path>
+				</File>
+				<File Id="348574371" Language="English(US)">
+					<ShortName>Help_4.wav</ShortName>
+					<Path>Voices/English(US)/Help_4_1C9C67B2.wem</Path>
+				</File>
+				<File Id="368239728" Language="SFX">
+					<ShortName>Chain1_6.wav</ShortName>
+					<Path>SFX/Chain1_6_1C9C67B2.wem</Path>
+				</File>
+				<File Id="380809419" Language="SFX">
+					<ShortName>Movement_20.wav</ShortName>
+					<Path>SFX/Movement_20_1C9C67B2.wem</Path>
+				</File>
+				<File Id="420776568" Language="SFX">
+					<ShortName>chill2_part1.wav</ShortName>
+					<Path>SFX/chill2_part1_F17FB28C.wem</Path>
+				</File>
+				<File Id="505078600" Language="English(US)">
+					<ShortName>Help_3.wav</ShortName>
+					<Path>Voices/English(US)/Help_3_1C9C67B2.wem</Path>
+				</File>
+				<File Id="539158518" Language="SFX">
+					<ShortName>chill2_part2.wav</ShortName>
+					<Path>SFX/chill2_part2_F17FB28C.wem</Path>
+				</File>
+				<File Id="579131710" Language="SFX">
+					<ShortName>Movement_11.wav</ShortName>
+					<Path>SFX/Movement_11_1C9C67B2.wem</Path>
+				</File>
+				<File Id="584117525" Language="SFX">
+					<ShortName>Movement_15.wav</ShortName>
+					<Path>SFX/Movement_15_1C9C67B2.wem</Path>
+				</File>
+				<File Id="605332008" Language="SFX">
+					<ShortName>Chain1_2.wav</ShortName>
+					<Path>SFX/Chain1_2_1C9C67B2.wem</Path>
+				</File>
+				<File Id="621157281" Language="SFX">
+					<ShortName>Nuclear_Siren_Main_1.wav</ShortName>
+					<Path>SFX/Nuclear_Siren_Main_1_F17FB28C.wem</Path>
+				</File>
+				<File Id="666252532" Language="SFX">
+					<ShortName>Chain1.wav</ShortName>
+					<Path>SFX/Chain1_1C9C67B2.wem</Path>
+				</File>
+				<File Id="699660470" Language="SFX">
+					<ShortName>Movement_13.wav</ShortName>
+					<Path>SFX/Movement_13_1C9C67B2.wem</Path>
+				</File>
+				<File Id="739663659" Language="SFX">
+					<ShortName>Movement_9.wav</ShortName>
+					<Path>SFX/Movement_9_1C9C67B2.wem</Path>
+				</File>
+				<File Id="775426696" Language="SFX">
+					<ShortName>chill2_drum.wav</ShortName>
+					<Path>SFX/chill2_drum_F17FB28C.wem</Path>
+				</File>
+				<File Id="788214083" Language="English(US)">
+					<ShortName>Help_2.wav</ShortName>
+					<Path>Voices/English(US)/Help_2_1C9C67B2.wem</Path>
+				</File>
+				<File Id="807909923" Language="SFX">
+					<ShortName>Movement_14.wav</ShortName>
+					<Path>SFX/Movement_14_1C9C67B2.wem</Path>
+				</File>
+				<File Id="816545910" Language="SFX">
+					<ShortName>Prison.wav</ShortName>
+					<Path>SFX/Prison_1C9C67B2.wem</Path>
+				</File>
+				<File Id="827098263" Language="English(US)">
+					<ShortName>Old Men_1.wav</ShortName>
+					<Path>Voices/English(US)/Old Men_1_1C9C67B2.wem</Path>
+				</File>
+				<File Id="877666161" Language="English(US)">
+					<ShortName>Chime_1.wav</ShortName>
+					<Path>Voices/English(US)/Chime_1_F17FB28C.wem</Path>
+				</File>
+				<File Id="914040070" Language="English(US)">
+					<ShortName>Voice_Rebell_2.wav</ShortName>
+					<Path>Voices/English(US)/Voice_Rebell_2_1C9C67B2.wem</Path>
+				</File>
+				<File Id="975074924" Language="SFX">
+					<ShortName>Movement_8.wav</ShortName>
+					<Path>SFX/Movement_8_1C9C67B2.wem</Path>
+				</File>
+				<File Id="1008075553" Language="English(US)">
+					<ShortName>Help_5.wav</ShortName>
+					<Path>Voices/English(US)/Help_5_1C9C67B2.wem</Path>
+				</File>
+				<File Id="1042719985" Language="English(US)">
+					<ShortName>white noise full.wav</ShortName>
+					<Path>Voices/English(US)/white noise full_F17FB28C.wem</Path>
+				</File>
+				<File Id="1052988843" Language="SFX">
+					<ShortName>Movement_16.wav</ShortName>
+					<Path>SFX/Movement_16_1C9C67B2.wem</Path>
+				</File>
+				<File Id="1053205033" Language="SFX">
+					<ShortName>Chain1_4.wav</ShortName>
+					<Path>SFX/Chain1_4_1C9C67B2.wem</Path>
+				</File>
+				<File Id="1053354709" Language="SFX">
+					<ShortName>Chain1_3.wav</ShortName>
+					<Path>SFX/Chain1_3_1C9C67B2.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

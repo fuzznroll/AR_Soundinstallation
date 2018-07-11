@@ -1,8 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	3991942870	Music			\Default Work Unit\Music	
-
-In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	420776568	chill2_part1	E:\Projekte\Unity\AR_Soundinstallation\AR_Soundinstallation\AR_Soundinstallation_WwiseProject\.cache\Windows\SFX\chill2_part1_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\InTrigger\Rhodes\chill2_part1\chill2_part1		1843328
-	539158518	chill2_part2	E:\Projekte\Unity\AR_Soundinstallation\AR_Soundinstallation\AR_Soundinstallation_WwiseProject\.cache\Windows\SFX\chill2_part2_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\InTrigger\All\chill2_part2\chill2_part2		1843328
-	775426696	chill2_drum	E:\Projekte\Unity\AR_Soundinstallation\AR_Soundinstallation\AR_Soundinstallation_WwiseProject\.cache\Windows\SFX\chill2_drum_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\InTrigger\Drum\chill2_drum\chill2_drum		1843328
-
